@@ -54,13 +54,35 @@
 	background-color: #d9d9d9;
 }
 
-.connect{
+.connect-1{
 	text-align: center;
 	border: 1px solid black;
 	padding: 10px;
 	position: relative;
 	left: 840px;
 	top: -412px;
+	width: 250px;
+	background-color: #d9d9d9;
+}
+
+.connect-2{
+	text-align: center;
+	border: 1px solid black;
+	padding: 10px;
+	position: relative;
+	left: 840px;
+	top: -89px;
+	width: 250px;
+	background-color: #d9d9d9;
+}
+
+.connect-3{
+	text-align: center;
+	border: 1px solid black;
+	padding: 10px;
+	position: relative;
+	left: 840px;
+	top: -89px;
 	width: 250px;
 	background-color: #d9d9d9;
 }
