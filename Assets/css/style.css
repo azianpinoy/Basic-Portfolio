@@ -1,13 +1,13 @@
 .top-section{
 	background-color: black;
-	width: 100%;
+	width: 1260px;
 	height: 80px;
 	position: relative;
 	top: 0;
 }
 .middle-section{
 	background-color: white;
-	width: 100%;
+	width: 1260px;
 	height: 500px;
 	position: relative;
 }
@@ -15,7 +15,7 @@
 .bottom-section{
 	background-color: #d9d9d9;
 	border-top: thick double blue;
-	width: 100%;
+	width: 1260px;
 	height: 50px;
 	text-align: center;
 	position: relative;
