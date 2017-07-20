@@ -94,9 +94,10 @@
 }
 
 h1{
-	font-size: 200%;
+	font-size: 175%;
 	font-weight: bold;
 	line-height: 70px;
+	font-family: "Arial";
 }
 
 h2{
